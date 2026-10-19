@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "闲鱼订单金额统计",
+  "version": "1.0.0",
+  "description": "闲鱼卖家工作台订单统计：待发货、已发货待到账金额合计",
+  "content_scripts": [
+    {
+      "matches": ["https://seller.goofish.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
