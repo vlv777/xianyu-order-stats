@@ -13,6 +13,12 @@
 
 ## 安装（Chrome / Edge）
 
+**方式一：成品包（推荐，适合非开发者）**：到
+[Releases](https://github.com/vlv777/xianyu-order-stats/releases/latest) 下载
+`xianyu-order-stats-v1.0.0.zip`，解压后按包内「安装说明.html」操作（图文步骤，约 1 分钟）。
+
+**方式二：本仓库源码**：
+
 1. 下载本仓库（`git clone` 或点 Code → Download ZIP 解压）
 2. 地址栏打开 `chrome://extensions` → 右上角开启「开发者模式」
 3. 点「加载已解压的扩展程序」→ 选择本仓库文件夹
