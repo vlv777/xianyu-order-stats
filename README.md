@@ -1,5 +1,10 @@
 # 闲鱼订单金额统计（xianyu-order-stats）
 
+![Downloads](https://img.shields.io/github/downloads/vlv777/xianyu-order-stats/total?style=flat-square)
+![Release](https://img.shields.io/github/v/release/vlv777/xianyu-order-stats?style=flat-square)
+![Stars](https://img.shields.io/github/stars/vlv777/xianyu-order-stats?style=flat-square)
+![License](https://img.shields.io/github/license/vlv777/xianyu-order-stats?style=flat-square)
+
 一个极小、零依赖的 Chrome 扩展：在闲鱼卖家工作台（seller.goofish.com「订单管理」页）
 左下角加一个浮窗，自动翻页统计两个数字：
 
